@@ -1,0 +1,88 @@
+/* .numbers {
+  display: flex;
+  flex-direction: column;
+} */
+
+.one {
+  display: inline-block;
+  padding: 25px;
+  border: 2px solid #333;
+}
+
+.two {
+  display: inline-block;
+  padding: 25px;
+  border: 2px solid #333;
+}
+
+.three {
+  display: inline-block;
+  padding: 25px;
+  border: 2px solid #333;
+}
+
+.four {
+  display: inline-block;
+  padding: 25px;
+  border: 2px solid #333;
+}
+
+.five {
+  display: inline-block;
+  padding: 25px;
+  border: 2px solid #333;
+}
+
+.six {
+  display: inline-block;
+  padding: 25px;
+  border: 2px solid #333;
+}
+
+.seven {
+  display: inline-block;
+  padding: 25px;
+  border: 2px solid #333;
+}
+
+.eight {
+  display: inline-block;
+  padding: 25px;
+  border: 2px solid #333;
+}
+
+.nine {
+  display: inline-block;
+  padding: 25px;
+  border: 2px solid #333;
+}
+
+.zero {
+  display: inline-block;
+  padding: 25px;
+  border: 2px solid #333;
+}
+
+.plus {
+  display: inline-block;
+  padding: 25px;
+  border: 2px solid #333;
+}
+
+.result {
+  display: inline-block;
+  padding: 25px;
+  border: 2px solid #333;
+}
+
+.equal {
+  display: inline-block;
+  padding: 25px;
+  border: 2px solid #333;
+}
+
+.clear {
+  display: inline-block;
+  padding: 25px;
+  border: 2px solid #333;
+}
